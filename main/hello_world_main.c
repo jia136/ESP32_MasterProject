@@ -190,8 +190,8 @@ static teSampState ePrevSampState = SAMP_PING;
 
 /** Global variables */
 /** variables used between internet functions */
-const char *ssid = "Petrovic";
-const char *pass = "JelkaiVerka";
+const char *ssid = "";
+const char *pass = "";
 static int initConnErrCnt = 0;
 static bool bGetInterval = false;
 static int serviceTx = 0xFF;

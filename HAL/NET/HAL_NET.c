@@ -13,8 +13,8 @@
 #include "HAL_NET.h"
 #include "HAL_LOGGER.h"
 
-#define HAL_NET_sSSID       /*"ASAP"*/"Petrovic"
-#define HAL_NET_sPASS       /*"jia136136"*/"JelkaiVerka"
+#define HAL_NET_sSSID       /*""*/""
+#define HAL_NET_sPASS       /*""*/""
 #define HAL_NET_nMAX_RETRY  (5)
 
 static const char *TAG = "HAL_NET";
